@@ -1,0 +1,3 @@
+[submodule "Relearn"]
+path = DbConnector
+url = https://github.com/McShelby/hugo-theme-relearn.git
